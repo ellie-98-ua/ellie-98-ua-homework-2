@@ -24,22 +24,24 @@ body {
     cursor: pointer;
 }
 
-.logo-1 {
+.logo-one {
     font-family: "Raleway", sans-serif;
-    font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
     text-transform: uppercase;
     color: #4D5AE5;
 }
 
-.logo-2 {
+.logo-two {
+    font-family: "Raleway", sans-serif;
     color: #2E2F42
 }
 
-.logo-3 {
+.logo-three {
+    font-family: "Raleway", sans-serif;
     color: #F4F4FD;
 }
 
@@ -51,6 +53,11 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+
+.header-item:focus,
+.header-item:hover {
+    #404bbf
 }
 
 .adress-item {
