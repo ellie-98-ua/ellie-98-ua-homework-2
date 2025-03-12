@@ -6,6 +6,10 @@ ul {
     list-style-type: none;
 }
 
+li {
+    color: white
+}
+
     a {
         text-decoration: none;
     }
@@ -59,8 +63,8 @@ body {
     letter-spacing: 0.32px;
 }
 
-.header-item:focus,
-.header-item:hover {
+.header-item-link:focus,
+.header-item-link:hover {
     #404bbf
 }
 
