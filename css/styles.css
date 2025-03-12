@@ -53,7 +53,7 @@ body {
     
 }
 
-.header-item {
+.header-item-link {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -65,7 +65,7 @@ body {
 
 .header-item-link:focus,
 .header-item-link:hover {
-    #404bbf
+    color:#404bbf
 }
 
 .adress-item {
@@ -104,6 +104,7 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.64px;
+cursor: pointer;
 }
 
 .second-title {
