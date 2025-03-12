@@ -82,8 +82,8 @@ font-family: Roboto, sans-serif;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.11;
-letter-spacing: 1.12px;
+line-height: 1.07;
+letter-spacing: 0.2em;
 text-transform: capitalize
 }
 
@@ -93,6 +93,7 @@ text-transform: capitalize
 
 .hero-section-cta {
     color: #FFF;
+    background-color: #4D5AE5;
 font-family: Roboto, sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -105,21 +106,21 @@ letter-spacing: 0.64px;
     color: #2E2F42;
 text-align: center;
 font-family: Roboto, sans-serif;
-font-size: 20px;
+font-size: 36px;
 font-weight: 500;
-line-height: 1.2;
+line-height: 1.11;
 letter-spacing: 0.2em;
 text-transform: capitalize
 }
 
 .third-title {
     color: #2E2F42;
-font-family: Roboto;
+font-family: Roboto, sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.11;
-letter-spacing: 0.4px;
+line-height: 1.2;
+letter-spacing: 0.2em;
 text-transform: capitalize
 }
 
