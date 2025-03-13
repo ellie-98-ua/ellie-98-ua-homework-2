@@ -79,7 +79,6 @@ letter-spacing: 0.32px;
 }
 
 .main-title {
-    background-color: #2E2F42;
     color: #FFF;
     text-align: center;
 font-family: Roboto, sans-serif;
@@ -87,7 +86,7 @@ font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.07;
-letter-spacing: 0.2em;
+letter-spacing: 0.02em;
 text-transform: capitalize
 }
 
@@ -97,15 +96,9 @@ text-transform: capitalize
 
 .hero-section-cta {
     all: unset;
-    color: #FFF;
+    color: #FFFFFF;
     background-color: #4D5AE5;
 font-family: Roboto, sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.64px;
-cursor: pointer;
 }
 
 
@@ -162,7 +155,7 @@ letter-spacing: 0.32px;
 }
 
 .our-team {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .footer {
