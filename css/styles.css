@@ -107,6 +107,7 @@ letter-spacing: 0.64px;
 cursor: pointer;
 }
 
+
 .hero-section-cta:focus,
 .hero-section-cta:hover {
     background-color: #404bbf;
