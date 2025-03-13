@@ -46,7 +46,10 @@ body {
 }
 
 .header {
-    
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
 }
 
 .header-item-link {
@@ -61,7 +64,7 @@ body {
 
 .header-item-link:focus,
 .header-item-link:hover {
-    color:#404bbf
+    color:#404bbf;
 }
 
 address {
