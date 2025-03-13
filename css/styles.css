@@ -64,6 +64,10 @@ body {
     color:#404bbf
 }
 
+address {
+    font-style: normal;
+}
+
 .adress-item {
     color: #434455;
 font-family: Roboto, sans-serif;
