@@ -78,8 +78,8 @@ line-height: 24px;
 letter-spacing: 0.32px;
 }
 
-.adress-item:focus, 
-.adress-item:hover {
+.adress-item-link:focus, 
+.adress-item-link:hover {
     color: #404bbf
 }
 
