@@ -74,6 +74,11 @@ line-height: 24px;
 letter-spacing: 0.32px;
 }
 
+.adress-item:focus, 
+.adress-item:hover {
+    color: #404bbf
+}
+
 .main-title {
     color: #FFF;
     text-align: center;
