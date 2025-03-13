@@ -157,9 +157,13 @@ letter-spacing: 0.32px;
 }
 
 .our-team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
+.team-item {
+    background-color: #FFFFFF;
+}
+#
 .footer {
     background-color: #2E2F42;
 }
