@@ -9,11 +9,6 @@ li {
     a {
         text-decoration: none;
     }
-
-    [href] {
-        color: #434455;
-    }
-
 body {
     font-family: "Roboto", sans-serif;
     font-size: 14px;
@@ -60,7 +55,7 @@ body {
     color:#404bbf;
 }
 
-address {
+.address {
     font-style: normal;
 }
 
