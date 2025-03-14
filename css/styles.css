@@ -3,7 +3,7 @@ ul {
 }
 
 li {
-    color: white
+    color: white;
 }
 
     a {
@@ -37,17 +37,12 @@ body {
 
 .logo-part-two {
     font-family: "Raleway", sans-serif;
-    color: #2E2F42
+    color: #2E2F42;
 }
 
 .logo-part-three {
     font-family: "Raleway", sans-serif;
     color: #F4F4FD;
-}
-
-.header {
-    letter-spacing: 0.02em;
-    color: #434455
 }
 
 .header-item-link {
@@ -87,13 +82,13 @@ letter-spacing: 0.02em;
 .main-title {
     color: #FFF;
     text-align: center;
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
-text-transform: capitalize
+text-transform: capitalize;
 }
 
 .hero-section {
@@ -104,7 +99,7 @@ text-transform: capitalize
     all: unset;
     color: #FFFFFF;
     background-color: #4D5AE5;
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -112,7 +107,6 @@ line-height: 24px;
 letter-spacing: 0.64px;
 cursor: pointer;
 }
-
 
 .hero-section-cta:focus,
 .hero-section-cta:hover {
@@ -123,23 +117,23 @@ cursor: pointer;
 .second-title {
     color: #2E2F42;
 text-align: center;
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 font-size: 36px;
 font-weight: 500;
 line-height: 1.11;
 letter-spacing: 0.02em;
-text-transform: capitalize
+text-transform: capitalize;
 }
 
 .third-title {
     color: #2E2F42;
-font-family: Roboto, sans-serif;
+font-family: "Roboto", sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-transform: capitalize
+text-transform: capitalize;
 }
 
 .text {
@@ -175,5 +169,5 @@ letter-spacing: 0.32px;
 }
 #
 .footer {
-    background-color: #2E2F42;
+    background-color: #2e2f42;
 }
