@@ -7,7 +7,7 @@ li {
 }
 
 a {
-        text-decoration: none;
+    text-decoration: none;
 }
 
 body {
@@ -59,6 +59,14 @@ body {
 .header-item-link:focus,
 .header-item-link:hover {
     color:#404bbf;
+}
+
+.address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .address-item-link {
